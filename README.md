@@ -1,1 +1,1 @@
-# Master-Data_Science_and_Machine_Learning
+# MIE1624-Data_Science_and_Machine_Learning
