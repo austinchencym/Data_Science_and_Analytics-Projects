@@ -1,4 +1,4 @@
-# MIE1624-Data_Science_and_Machine_Learning
+# Data_Science_and_Machine_Learning
 
 ## 1. Sentiment Analysis in Natural Language Processing<br/>
 The purpose of this assignment is to compute the sentiment of text information - in our case, tweets posted in 2015 regarding US airlines - and answer the research question: “What can public opinion on Twitter tell us about the US airlines in 2015?” The goal is to essentially use sentiment analysis on Twitter data to get insight into the people’s opinions on US airlines.
